@@ -1,0 +1,19 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Earth
+Author: Zoe XR
+URL: https://poly.google.com/view/3U-XAIY031u
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: planet earth
+Author: Kale Mathieson
+URL: https://poly.google.com/view/fhwWCpoRio-
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: SPLOBJ | Rock Platform
+Author: Simon W
+URL: https://poly.google.com/view/azJCdqNojSu
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
